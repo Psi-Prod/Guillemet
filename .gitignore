@@ -27,3 +27,14 @@ setup.log
 
 # Local OPAM switch
 _opam/
+
+# Mirage generated files
+qotd-server/dist/
+qotd-server/duniverse/
+qotd-server/mirage/
+qotd-server/dune
+qotd-server/dune-project
+qotd-server/dune-workspace
+qotd-server/dune.build
+qotd-server/dune.config
+qotd-server/Makefile
